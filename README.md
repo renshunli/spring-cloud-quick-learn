@@ -8,3 +8,6 @@ server2 服务提供者
 consumer 服务消费者  
 zuul 路由网关  
 实现了两个注册中心高可用。两个服务负载。  
+
+
+![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541152665812&di=2ee7704469b900c8a1a5885729eb8abb&imgtype=0&src=http%3A%2F%2Fimage.bubuko.com%2Finfo%2F201802%2F20180207112044037967.png)
